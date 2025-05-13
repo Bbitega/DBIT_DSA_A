@@ -12,6 +12,8 @@ for name in names:
 
 
 # range
+for i in range(5):
+    print(i)
 
 """ doc string
 for i in range(11):
