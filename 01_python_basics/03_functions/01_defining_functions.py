@@ -1,6 +1,14 @@
 def main():
     print("Inside a function")
-    print("Inside a function 1234")
+    num = 13
+    num2 = 78
+    if num > num2:
+        print("num")
+
+def getSum():
+    print("")
+
+print("Inside a function 1234")
 
 
 if __name__ == "__main__":

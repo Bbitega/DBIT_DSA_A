@@ -1,4 +1,4 @@
-def getValues(a, b):
+def getValues(a,b):
     sum = a + b
     print(f"The sum is {sum}")
     return sum
