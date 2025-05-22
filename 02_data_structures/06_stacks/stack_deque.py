@@ -1,5 +1,7 @@
 from collections import deque
 
+# deck
+
 stack = deque([10, 20, 30])
 print(f"  Initial deque: {list(stack)}")
 
