@@ -13,6 +13,7 @@ print(f"  After pushing 10, 20, 30: {stack}")
 
 
 popped = stack.pop()
+#del stack[-1]
 print(f"  Popped item: {popped}")
 print(f"  Stack after pop: {stack}")
 
