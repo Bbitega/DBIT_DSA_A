@@ -1,3 +1,4 @@
+
 student = {
     "name": "Jane",
     "age": 20,
@@ -25,7 +26,7 @@ school = {
 }
 
 # Nested Dictionary
-print(f"  student2's age: {school['student1']['age']}")
+print(f"  student2's age: {school['student2']['age']}")
 
 
 
