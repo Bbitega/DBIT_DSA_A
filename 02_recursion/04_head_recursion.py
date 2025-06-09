@@ -5,4 +5,5 @@ def head_recursion(num):
     print(f"{num} Head recursion")
     return None
 
-head_recursion(12)
+head_recursion(12) 
+#why does it output in ascending order?
