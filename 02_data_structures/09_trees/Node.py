@@ -3,3 +3,5 @@ class Node:
         self.data = data
         self.left_child = None
         self.right_child = None
+        
+
