@@ -4,6 +4,5 @@ def getFactorial(n):
         return 1
     return n * getFactorial(n - 1)
 
-
-fact = getFactorial(5)
-print(fact)
+#fact = getFactorial(5)
+print(getFactorial(5))
